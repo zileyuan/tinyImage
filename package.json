@@ -1,0 +1,14 @@
+{
+  "name": "tiny",
+  "version": "0.0.1",
+  "description": "tiny",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tinify": "^1.5.0"
+  }
+}
